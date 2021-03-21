@@ -1,0 +1,2 @@
+# giz-emu
+Gizmondo Emulator
