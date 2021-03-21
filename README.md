@@ -1,2 +1,3 @@
-# giz-emu
-Gizmondo Emulator
+# Gizmondo Emulator
+
+Source coming soon...
